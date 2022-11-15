@@ -1,2 +1,2 @@
-*.csv
-/.csv
+/users.csv
+/users_sorted.csv
